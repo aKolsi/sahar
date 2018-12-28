@@ -1,0 +1,9 @@
+.input-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.acceptation-container {
+  display: flex;
+
+}
